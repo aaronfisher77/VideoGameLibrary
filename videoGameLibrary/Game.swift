@@ -11,7 +11,7 @@ import Foundation
 
 class Game {
     let title: String
-    var checkedInOut: Bool = true
+    var checkedIn: Bool = true
     var dueDate: Date? = nil
     
     
